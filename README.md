@@ -1,5 +1,7 @@
 # Projeto de Componentes React
 
+<img src="https://media.licdn.com/dms/image/D4D22AQFencrn8fei7Q/feedshare-shrink_2048_1536/0/1720559262052?e=1723680000&v=beta&t=Atbowb64khMFGd6SSwv9IvQ2F6VheZvoICrQEIFRRVI" alt="Texto Alternativo">
+
 Este projeto é um exercício prático para a criação de componentes em React, focando na construção de componentes reutilizáveis e na renderização de dados dinâmicos.
 
 ## Estrutura do Projeto
