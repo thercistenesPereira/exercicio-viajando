@@ -1,4 +1,5 @@
 import Card from './Card';
+import '../styles/cardList.css';
 
 const infoRioDeJaneiro = {
   city: 'Rio de Janeiro',
